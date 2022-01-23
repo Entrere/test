@@ -1,1 +1,1 @@
-Да просто так создал, не смотри!
+Creating and checking a repository

@@ -1,9 +1,9 @@
 body {
-	background-color: rgb(178, 193, 241);
+	background-color: rgb(72, 73, 75);
 }
 .container {
 	margin: 0 auto;
-	background-color: rgb(187, 165, 165);
+	background-color: rgb(70, 230, 230);
 	width: 1000px;
 	border-radius: 10px;
 	display: flex;
@@ -13,17 +13,17 @@ body {
 }
 
 .title-bg {
-	background-color: rgb(58, 58, 58);
+	background-color: rgb(134, 115, 115);
 	text-align: center;
 	border-radius: 10px;
 }
 .title {
 	font-size: 40px;
-	color:rgb(10, 119, 138);
+	color:rgb(10, 120, 139);
 }
 .title-branch {
 	font-size: 30px;
-	color:rgb(238, 137, 4);	
+	color:rgb(158, 94, 9);	
 }
 .image {
 	border-radius: 10px;
